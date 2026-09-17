@@ -1,344 +1,243 @@
-<h1 align="center">Hi 👋, I'm Vivek Singh</h1>
+<div align="center">
 
-<h3 align="center">
-Developer • Indie Builder • Product Engineer
-</h3>
+# 👋 Hi, I'm Vivek Singh
 
-<p align="center">
-I build real-world software, experiment with new ideas,<br/>
-and turn problems into working products.
-</p>
+### Founder • Flutter Developer • Full-Stack Developer
 
-<p align="center">
-  <a href="YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/vivek-singh-87447a268">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:vivekvsingh19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+I build and ship mobile apps, web products and software that solve real-world problems.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivekvsingh19&label=Profile%20Views&style=flat-square" />
-</p>
+<a href="https://viveksingh.me">Portfolio</a> •
+<a href="https://www.linkedin.com/in/vivek-singh-87447a268">LinkedIn</a> •
+<a href="https://github.com/vivekvsingh19">GitHub</a>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Things I've Built
 
-I'm a developer who enjoys **building things from scratch** — from an idea on paper to a deployed application.
+### 📱 Published Apps
 
-My work spans across:
+<table>
+<tr>
 
-* 📱 Mobile applications
-* 🌐 Full-stack web applications
-* ☁️ Backend & cloud systems
-* 🤖 AI-powered applications
-* 🧪 Experimental projects
-* 💼 Freelance & client work
-* 🚀 Indie products
+<td width="50%" align="center">
 
-I'm particularly interested in projects that solve **real problems rather than just demonstrating a technology**.
+## SwadeIt
 
-### Currently
+<img src="EXACT_SWADEIT_IMAGE_URL" width="100%">
 
-🔨 Building and experimenting with new real-world products
-🧠 Improving DSA & software engineering fundamentals
-🤖 Exploring AI-powered applications
-🌐 Working across mobile, frontend and backend
-🚀 Turning ideas into usable products
+**A local marketplace to buy, sell and rent products nearby.**
 
----
+<a href="https://play.google.com/store/apps/details?id=in.swadeit.app">
+<img src="https://img.shields.io/badge/Google%20Play-View%20App-111111?style=for-the-badge&logo=googleplay&logoColor=white">
+</a>
 
-# 🚀 What I've Built
+</td>
 
-> **A collection of products, professional work, experiments and learning projects.**
+<td width="50%" align="center">
 
-I keep everything here — whether it was built for a client, during an internship, as an independent product, or simply because I wanted to experiment with an idea.
+## Upasthit - LNCT attendance app
 
----
+<img src="EXACT_UPASTHIT_IMAGE_URL" width="100%">
 
-## ⭐ Featured Projects
+**An attendance tracker built specifically for LNCT students.**
 
-### 🛒 SwadeIt
+<a href="https://play.google.com/store/apps/details?id=com.upasthit.app">
+<img src="https://img.shields.io/badge/Google%20Play-View%20App-111111?style=for-the-badge&logo=googleplay&logoColor=white">
+</a>
 
-**Buy • Sell • Rent**
+</td>
 
-A location-based marketplace focused on connecting **local shops, vendors and nearby customers**.
+</tr>
 
-Instead of being another generic classifieds platform, SwadeIt explores how local commerce can work digitally at the neighborhood level.
+<tr>
 
-**Features**
+<td width="50%" align="center">
 
-* 📍 Location-based discovery
-* 🏪 Local vendor onboarding
-* 🛍️ Buy & sell listings
-* 🏠 Rental listings
-* 💬 Buyer–seller chat
-* 🔔 Product request system
-* 🖼️ Image management
-* 🔐 Authentication & verification
-* 💰 Zero listing fee concept
+## Split Bills & Chores - FlatSy
 
-**Tech:** Flutter • Firebase • Firestore • Cloudinary • OpenStreetMap
+<img src="EXACT_FLATSY_IMAGE_URL" width="100%">
 
-🔗 **[Website](https://swadeit.in)**
-🔗 **[Beta](https://swadeit.pages.dev/)**
-🔗 **[Source Code](YOUR_REPO)**
+**A shared-living app for managing expenses, chores and roommates.**
 
----
+<a href="https://play.google.com/store/apps/details?id=com.flatsy.app">
+<img src="https://img.shields.io/badge/Google%20Play-View%20App-111111?style=for-the-badge&logo=googleplay&logoColor=white">
+</a>
 
-### 📊 Upasthit
+</td>
 
-**Attendance, but actually useful.**
+<td width="50%" align="center">
 
-A student-focused attendance companion designed to answer questions beyond simply showing an attendance percentage.
+## SnakeOS - Classic Retro Game
 
-**Features**
+<img src="EXACT_SNAKEOS_IMAGE_URL" width="100%">
 
-* 📚 Subject-wise attendance
-* 📅 Day-wise tracking
-* 📈 Attendance progress
-* 🎯 Custom attendance targets
-* 🧮 Bunk calculator
-* 🔮 Bunk predictor
-* 💎 Premium features
-* 📱 Android application
+**A modern retro take on the classic Snake game.**
 
-**Tech:** Flutter • Firebase • RevenueCat • AdMob
+<a href="https://play.google.com/store/apps/details?id=com.snakeos.game">
+<img src="https://img.shields.io/badge/Google%20Play-View%20Game-111111?style=for-the-badge&logo=googleplay&logoColor=white">
+</a>
 
-🔗 **[Google Play](YOUR_PLAY_STORE_LINK)**
-🔗 **[Source Code](YOUR_REPO)**
+</td>
 
----
+</tr>
 
-### 📰 MediaTimes
+<tr>
 
-A modern news platform rebuilt from a traditional WordPress setup into a **custom full-stack application**.
+<td width="50%" align="center">
 
-The project covers the complete publishing workflow — from content management and authentication to media handling and production deployment.
+## Her Closet
 
-**Highlights**
+<img src="EXACT_HER_CLOSET_IMAGE_URL" width="100%">
 
-* 📰 News publishing
-* 🗂️ Categories & tags
-* 👤 Authentication & roles
-* 📝 Custom CMS
-* 🖼️ Media management
-* 🔎 SEO architecture
-* 🗄️ PostgreSQL database
-* ⚡ Production-ready frontend
+**A fashion shopping application focused on women's clothing and trends.**
 
-**Tech:** Next.js • React • TypeScript • PostgreSQL • Prisma • ImageKit
+<a href="https://play.google.com/store/apps/details?id=in.her_closet.app">
+<img src="https://img.shields.io/badge/Google%20Play-View%20App-111111?style=for-the-badge&logo=googleplay&logoColor=white">
+</a>
 
-🔗 **[Website](https://themediatimes.live)**
-🔗 **[Source Code](YOUR_REPO)**
+</td>
+
+<td width="50%" align="center">
+
+## Sudoku Gold
+
+<img src="EXACT_SUDOKU_GOLD_IMAGE_URL" width="100%">
+
+**A clean and lightweight Sudoku game built for mobile.**
+
+<a href="https://play.google.com/store/search?q=Sudoku%20Gold%20vivek%20singh&c=apps">
+<img src="https://img.shields.io/badge/Google%20Play-View%20Game-111111?style=for-the-badge&logo=googleplay&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 🤖 Persona AI
+## 💼 Freelance & Client Work
 
-An AI conversational application built around **different AI personalities**.
+<table>
+<tr>
 
-Instead of interacting with one generic assistant, users can interact with specialized personas designed around different use cases.
+<td width="50%" align="center">
 
-**Personas explored**
+## MediaTimes
 
-🧠 Mentor
-❤️ Companion
-🧘 Wellness Guide
-📚 Study Buddy
+<img src="EXACT_MEDIATIMES_IMAGE_URL" width="100%">
 
-**Tech:** Flutter • AI APIs • Firebase
+**A complete news platform migrated from WordPress to a modern full-stack application.**
 
-🔗 **[Source Code](YOUR_REPO)**
+<a href="https://themediatimes.live">
+<img src="https://img.shields.io/badge/Live%20Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
----
+</td>
 
-### 🖥️ Unified Desktop
+<td width="50%" align="center">
 
-An experimental Linux desktop project focused on building a **more unified GNOME experience**.
+## Her Closet
 
-The idea is to bring useful desktop functionality together instead of relying on multiple disconnected extensions.
+<img src="EXACT_HER_CLOSET_IMAGE_URL" width="100%">
 
-Exploring:
+**A complete mobile shopping experience built for a fashion brand.**
 
-* 🖥️ Dock & panel
-* 🪟 Window management
-* 👀 Window previews
-* 📐 Workspace management
-* 🎞️ Animations
-* 🔍 Magnification
-* 🖱️ Context actions
-* 🏠 Overview / Show Desktop
-* ⚙️ Desktop customization
+<a href="https://play.google.com/store/apps/details?id=in.her_closet.app">
+<img src="https://img.shields.io/badge/Google%20Play-111111?style=for-the-badge&logo=googleplay&logoColor=white">
+</a>
 
-**Tech:** GNOME Shell • JavaScript • Linux
+</td>
 
-🔗 **[Source Code](YOUR_REPO)**
+</tr>
 
----
+<tr>
 
-# 💼 Professional Work
+<td width="50%" align="center">
 
-Projects I've worked on through **freelancing, internships and real-world collaborations**.
+## Ek Pakhi Se Kendra
 
-> Some projects may not have public source code because they were built for clients or organizations.
+<img src="EXACT_EK_PAKHI_SE_KENDRA_IMAGE_URL" width="100%">
 
-| Project          | Work                    | Context    |
-| ---------------- | ----------------------- | ---------- |
-| **Project Name** | Mobile application      | Internship |
-| **Project Name** | Full-stack web platform | Freelance  |
-| **Project Name** | Business website        | Freelance  |
-| **Project Name** | Mobile / AI application | Internship |
-| **Project Name** | Custom software         | Freelance  |
+**A client project built around a practical digital solution.**
 
-### What professional projects taught me
+</td>
 
-**Requirements → Development → Debugging → Deployment → Delivery**
+<td width="50%" align="center">
 
-Building for someone else is different from building for yourself — and that difference has shaped how I approach software.
+## Gymclass
 
----
+<img src="EXACT_GYMCLASS_IMAGE_URL" width="100%">
 
-# 🧪 Experiments
+**Working on application development for a fitness and wellness platform.**
 
-Some projects exist simply because I wanted to answer:
+<a href="https://gymclass.in">
+<img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
-> **"Can I build this?"**
+</td>
 
-This section contains the things that don't necessarily fit into a product category.
-
-### Things I've experimented with
-
-* 🤖 AI applications
-* 🗺️ Maps & geolocation
-* 🖥️ Linux / GNOME desktop development
-* 🎮 Game development
-* 📅 Calendar & widget systems
-* 🔥 Firebase architectures
-* ☁️ Cloud deployments
-* 📱 Flutter experiments
-* 🌐 Full-stack applications
-* ⚙️ APIs & automation
-
-Some became products.
-
-Some became learning experiences.
-
-Some are still evolving.
-
-**That's the fun part.**
+</tr>
+</table>
 
 ---
 
-# 📚 Learning & Problem Solving
+## 🧪 Other Projects
 
-I'm also actively working on the fundamentals behind the applications I build.
-
-### Focus Areas
-
-🧠 Data Structures & Algorithms
-🏗️ Software Architecture
-🌐 Full-Stack Development
-☁️ Backend & Cloud
-🤖 AI Integration
-🔐 Authentication & Security
-🚀 Deployment & Production Systems
-
-You can find my practice and learning repositories among my [GitHub repositories](https://github.com/vivekvsingh19?tab=repositories).
+| Project | |
+|---|---|
+| **Shredded** | Product / application |
+| **Cooper Street** | Product / application |
+| **Flat C** | Product / application |
+| **Persona AI** | AI application |
+| **Unified Desktop** | Linux desktop project |
+| **E0** | Application project |
 
 ---
 
-# 🛠️ Technologies I Work With
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=dart,java,python,javascript,typescript,c" />
-</p>
-
-### Frontend & Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,html,css" />
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,postgres,mongodb,mysql,prisma" />
-</p>
-
-### Tools & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,vercel" />
-</p>
-
----
-
-# 📈 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekvsingh19&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekvsingh19&layout=compact&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekvsingh19&hide_border=true" />
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vivekvsingh19/vivekvsingh19/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# 💡 My Building Philosophy
-
-I don't want to collect technologies.
-
-I want to **use technology to build useful things.**
-
-A project doesn't have to become a startup.
-
-It doesn't have to be perfect.
-
-Sometimes the goal is simply to understand a problem, build a solution, learn something new, and ship it.
-
----
-
-# 🤝 Let's Build Something
-
-I'm interested in:
-
-**Open Source • Freelance • Collaboration • Startups • Product Ideas • Interesting Problems**
-
-If you're working on something interesting, feel free to reach out.
-
-<p align="center">
-  <a href="https://linkedin.com/in/vivek-singh-87447a268">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:vivekvsingh19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
+## 🛠️ Tech Stack
 
 <p align="center">
 
-### ⭐ Thanks for stopping by!
-
-**Build → Break → Learn → Ship → Repeat.**
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,javascript,typescript,python,react,nextjs,nodejs,firebase,postgres,mongodb,mysql,prisma,git,github,linux"/>
 
 </p>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vivekvsingh19&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekvsingh19&layout=compact&hide_border=true&langs_count=8" height="170">
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=vivekvsingh19&hide_border=true">
+
+</div>
+
+---
+
+## 👨‍💻 Currently
+
+**Gymclass** — Application Developer  
+**Waste Samaritan** — Software Engineer Intern
+
+Currently focused on **Flutter development, full-stack development, DSA and building products.**
+
+---
+
+<div align="center">
+
+### Let's build something.
+
+<a href="mailto:vivekvsingh19@gmail.com">
+<img src="https://img.shields.io/badge/Contact%20Me-111111?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
