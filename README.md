@@ -37,51 +37,57 @@ Building products, shipping apps, and turning ideas into software.
 
 <div align="center">
 
-### Contribution Activity
+# GitHub Activity
 
-<a href="https://github.com/vivekvsingh19">
+<div align="center">
 
-<img src="https://ghchart.rshah.org/vivekvsingh19" width="100%" alt="GitHub contribution graph"/>
-
-</a>
-
-<br><br>
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-### 🔥 Coding Streak
+### `~/github/activity`
 
 <img
-src="https://streak-stats.demolab.com?user=vivekvsingh19&hide_border=true&background=00000000&stroke=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=9ca3af&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff"
+src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=vivekvsingh19&theme=ubuntu"
 width="100%"
-/>
-
-</td>
-
-<td align="center" width="50%">
-
-### 💻 GitHub Profile
-
-<a href="https://github.com/vivekvsingh19">
-
-<img
-src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"
-width="75"
+alt="GitHub contribution activity"
 />
 
 <br>
 
-<b>View my repositories →</b>
+<table>
+<tr>
 
-</a>
+<td width="50%" align="center">
+
+### `contribution.stats`
+
+<img
+src="https://github-readme-insight-terminal-asci.vercel.app/svg/stats?user=vivekvsingh19&theme=ubuntu"
+width="100%"
+alt="GitHub statistics"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+### `coding.streak`
+
+<img
+src="https://github-readme-insight-terminal-asci.vercel.app/svg/streak?user=vivekvsingh19&theme=ubuntu"
+width="100%"
+alt="GitHub contribution streak"
+/>
 
 </td>
 
 </tr>
 </table>
+
+<br>
+
+<a href="https://github.com/vivekvsingh19">
+
+<img src="https://img.shields.io/badge/OPEN%20GITHUB%20PROFILE-161b22?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
 
 </div>
 ---
