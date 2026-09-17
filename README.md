@@ -1,167 +1,141 @@
 <div align="center">
 
-# 👋 Hi, I'm Vivek Singh
+# Vivek Singh
 
-### Founder · Flutter Developer · Full-Stack Developer
+### `Founder • Application Developer • Indie Hacker`
 
-**I build and ship mobile apps, web platforms and products from idea to production.**
+Building products, shipping apps, and turning ideas into software.
 
-<br>
+[![GitHub](https://img.shields.io/badge/GitHub-vivekvsingh19-181717?style=flat-square&logo=github)](https://github.com/vivekvsingh19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivek%20Singh-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&logo=googlechrome)](https://github.com/vivekvsingh19)
 
-<a href="https://viveksingh.me">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/vivek-singh-87447a268">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+</div>
+
+---
+
+## `> whoami`
+
+    vivek@dev:~$ whoami
+
+    Vivek Singh
+    Application Developer & Indie Hacker
+
+    ▸ Building mobile & web products
+    ▸ Flutter • Next.js • TypeScript
+    ▸ Firebase • PostgreSQL • Prisma
+    ▸ Linux enthusiast
+    ▸ Interested in products, startups & developer tools
+
+    vivek@dev:~$ echo "build → ship → learn → repeat"
+
+    build → ship → learn → repeat
+
+---
+
+# GitHub Activity
+
+<div align="center">
+
+### Contribution Activity
+
 <a href="https://github.com/vivekvsingh19">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="mailto:vivekvsingh19@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
 
-<br><br>
+<img src="https://ghchart.rshah.org/vivekvsingh19" width="100%" alt="GitHub contribution graph"/>
 
-`Flutter` · `Dart` · `Next.js` · `TypeScript` · `Firebase` · `PostgreSQL`
+</a>
 
 <br><br>
 
 <table>
 <tr>
-<td align="center" width="33%">
 
-**🚀 Products**
+<td align="center" width="50%">
 
-3+ apps built & shipped
+### 🔥 Coding Streak
 
-</td>
-
-<td align="center" width="33%">
-
-**💼 Client Work**
-
-Mobile & Web Products
+<img
+src="https://streak-stats.demolab.com?user=vivekvsingh19&hide_border=true&background=00000000&stroke=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=9ca3af&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff"
+width="100%"
+/>
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="50%">
 
-**🛠️ Focus**
+### 💻 GitHub Profile
 
-Build · Ship · Learn
+<a href="https://github.com/vivekvsingh19">
+
+<img
+src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"
+width="75"
+/>
+
+<br>
+
+<b>View my repositories →</b>
+
+</a>
 
 </td>
+
 </tr>
 </table>
 
-<img src="https://komarev.com/ghpvc/?username=vivekvsingh19&style=flat-square&color=111111&label=PROFILE+VIEWS">
-
 </div>
-
 ---
 
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=vivekvsingh19&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
-height="165">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekvsingh19&layout=compact&hide_border=true&langs_count=8"
-height="165">
-
-<br>
-
-<img
-src="https://streak-stats.demolab.com?user=vivekvsingh19&hide_border=true">
-
-</div>
-
----
-
-# 🚀 Things I've Built
-
-## 📱 My Products
+# Products
 
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-<div align="center">
-
-<img
-src="https://play-lh.googleusercontent.com/tn4TXskhw8F5H0z2Ks8rolQpU2vcFBX-XAJePCvXlRQRvq1IeYs2cG4p-hATHK-J7ovvOJu6hJA65CYgS97nvZo=w240-h480-rw"
-width="125"
-alt="SwadeIt">
+<img src="https://play-lh.googleusercontent.com/tn4TXskhw8F5H0z2Ks8rolQpU2vcFBX-XAJePCvXlRQRvq1IeYs2cG4p-hATHK-J7ovvOJu6hJA65CYgS97nvZo=w240-h480-rw" width="90"/>
 
 ### SwadeIt
 
-Local marketplace to buy, sell and rent products nearby.
+Buy, Sell, Rent — a local marketplace connecting people with nearby products and vendors.
 
-`Flutter` `Firebase`
+`Flutter` `Firebase` `Cloudinary`
 
 <br>
 
-<a href="https://play.google.com/store/apps/details?id=in.swadeit.app">
-<img src="https://img.shields.io/badge/▶%20Google%20Play-111111?style=for-the-badge">
-</a>
-<a href="https://swadeit.in">
-<img src="https://img.shields.io/badge/🌐%20Website-111111?style=for-the-badge">
-</a>
-
-</div>
+[Google Play](https://play.google.com/store/apps/details?id=in.swadeit.app)
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-<div align="center">
+<img src="https://play-lh.googleusercontent.com/qVqRVzYkQkHIaNMDQnGkDWXGrLjFj3CmqAoYMyFFgXdHy7ZM9MH2OvNoDr-kUykyYgoz0BorG_O3AT_NGulpyw=w240-h480-rw" width="90"/>
 
-<img
-src="https://play-lh.googleusercontent.com/qVqRVzYkQkHIaNMDQnGkDWXGrLjFj3CmqAoYMyFFgXdHy7ZM9MH2OvNoDr-kUykyYgoz0BorG_O3AT_NGulpyw=w240-h480-rw"
-width="125"
-alt="Upasthit">
+### Upasthit
 
-### Upasthit - LNCT attendance app
+Attendance tracker for LNCT students with attendance insights, bunk calculations and predictions.
 
-Attendance tracker built for LNCT students.
-
-`Flutter` `Firebase`
+`Flutter` `Firebase` `RevenueCat`
 
 <br>
 
-<a href="https://play.google.com/store/apps/details?id=com.upasthit.app">
-<img src="https://img.shields.io/badge/▶%20Google%20Play-111111?style=for-the-badge">
-</a>
-
-</div>
+[Google Play](https://play.google.com/store/apps/details?id=com.upasthit.app)
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-<div align="center">
+<img src="https://play-lh.googleusercontent.com/xRGpu2xaS3dZ4l9E_JTDMvcWK662cBzY0IDoUOc_5q0SbLzYiwP2lcLP9LKfzxFb2J_fAaPzmmSuV7k-YVfBeSE=w240-h480-rw" width="90"/>
 
-<img
-src="https://play-lh.googleusercontent.com/xRGpu2xaS3dZ4l9E_JTDMvcWK662cBzY0IDoUOc_5q0SbLzYiwP2lcLP9LKfzxFb2J_fAaPzmmSuV7k-YVfBeSE=w240-h480-rw"
-width="125"
-alt="FlatSy">
+### FlatSy
 
-### Split Bills & Chores - FlatSy
+Split bills and manage shared chores for people living together.
 
-Shared-living app for expenses, chores and roommates.
-
-`Flutter` `Firebase`
+`Flutter` `Firebase` `Android`
 
 <br>
 
-<a href="https://play.google.com/store/apps/details?id=com.flatsy.app">
-<img src="https://img.shields.io/badge/▶%20Google%20Play-111111?style=for-the-badge">
-</a>
-
-</div>
+[Google Play](https://play.google.com/store/apps/details?id=com.flatsy.app)
 
 </td>
 
@@ -170,86 +144,56 @@ Shared-living app for expenses, chores and roommates.
 
 ---
 
-## 💼 Freelance & Client Work
+# Freelance & Client Work
 
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-<div align="center">
-
-<img
-src="https://media.licdn.com/dms/image/v2/D4D0BAQGs814AO86kcg/company-logo_200_200/B4DZkuAvfPIEAQ-/0/1757413571931?e=1791417600&v=beta&t=jHWSibuFYFSabtvVe8O3VC8YRVxHrRvrfPz2gtfgdPI"
-width="100"
-alt="MediaTimes">
+<img src="https://media.licdn.com/dms/image/v2/D4D0BAQGs814AO86kcg/company-logo_200_200/B4DZkuAvfPIEAQ-/0/1757413571931?e=1791417600&v=beta&t=jHWSibuFYFSabtvVe8O3VC8YRVxHrRvrfPz2gtfgdPI" width="90"/>
 
 ### MediaTimes
 
-News platform with web and mobile.
+News platform with a custom web experience and mobile application.
 
-`Next.js` `TypeScript` `PostgreSQL`
+`Next.js` `TypeScript` `PostgreSQL` `Prisma`
 
 <br>
 
-<a href="https://mediatimeslive.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Website-111111?style=for-the-badge">
-</a>
-
-</div>
+[Website](https://mediatimeslive.vercel.app/)
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-<div align="center">
-
-<img
-src="https://play-lh.googleusercontent.com/u0-Xlt9AFH3ZbDAu4gVZhi-i7emW4tsIcDJqRcbPvtfb2m3JRBBrSYRCt8Tuo5vuXC236at3w50bGrFdhpAUrw=w240-h480-rw"
-width="125"
-alt="Ekta Krishi Kendra">
+<img src="https://play-lh.googleusercontent.com/jy32o4haEnAbOPvX_TMbkh3T-4g1Z4_-VPqwobCR7SauNFoXFjzvIe29DJubhPwNaVLesWsvYeDySDBCLEmO=w240-h480-rw" width="90"/>
 
 ### Ekta Krishi Kendra
 
-Agriculture platform for farming products and supplies.
+Agriculture-focused business platform with a website and mobile application.
 
-`Web` `Mobile App` `E-commerce`
+`Flutter` `Web` `Mobile`
 
 <br>
 
-<a href="https://ektakrishikendra.in/">
-<img src="https://img.shields.io/badge/🌐%20Website-111111?style=for-the-badge">
-</a>
-<a href="https://play.google.com/store/search?q=Ekta%20Krishi%20Kendra&c=apps">
-<img src="https://img.shields.io/badge/📱%20App-111111?style=for-the-badge">
-</a>
-
-</div>
+[Website](https://ektakrishikendra.in/) • [App](https://play.google.com/store/search?q=Ekta%20Krishi%20Kendra&c=apps)
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-<div align="center">
-
-<img
-src="https://play-lh.googleusercontent.com/jy32o4haEnAbOPvX_TMbkh3T-4g1Z4_-VPqwobCR7SauNFoXFjzvIe29DJubhPwNaVLesWsvYeDySDBCLEmO=w240-h480-rw"
-width="125"
-alt="Her Closet">
+<img src="https://play-lh.googleusercontent.com/u0-Xlt9AFH3ZbDAu4gVZhi-i7emW4tsIcDJqRcbPvtfb2m3JRBBrSYRCt8Tuo5vuXC236at3w50bGrFdhpAUrw=w240-h480-rw" width="90"/>
 
 ### Her Closet
 
-Women's fashion shopping application.
+Fashion-focused mobile application developed as freelance/client work.
 
-`Flutter` `Firebase`
+`Flutter` `Firebase` `Android`
 
 <br>
 
-<a href="https://play.google.com/store/apps/details?id=in.her_closet.app">
-<img src="https://img.shields.io/badge/▶%20Google%20Play-111111?style=for-the-badge">
-</a>
-
-</div>
+[Google Play](https://play.google.com/store/apps/details?id=in.her_closet.app)
 
 </td>
 
@@ -258,32 +202,44 @@ Women's fashion shopping application.
 
 ---
 
-## 💼 Work Experience
+# Work Experience
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🏋️ Gymclass
+### Gymclass
 
-**Application Developer · September 2026 – Present**
+**Application Developer**
 
-Building applications for a fitness and wellness platform.
+`September 2026 — Present`
 
-`Flutter` · `Mobile Development`
+Building and improving application features, workflows and user experiences.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### ♻️ Waste Samaritan
+### Waste Samaritan
 
-**Software Engineer Intern · August 2026 – Present**
+**Software Engineer Intern**
 
-Working on cross-platform applications and backend integration.
+`August 2026 — Present`
 
-`Flutter` · `Backend` · `Software Engineering`
+Working on software development and product implementation.
+
+</td>
+
+<td width="33%" valign="top">
+
+### SwadeIt
+
+**Founder & Developer**
+
+`June 2025 — March 2026`
+
+Built and developed the product from idea to production, covering application development, backend, product design and deployment.
 
 </td>
 
@@ -292,32 +248,58 @@ Working on cross-platform applications and backend integration.
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,javascript,typescript,python">
+### Mobile Development
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,android" height="70"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,firebase,postgres,mongodb,mysql,prisma">
+### Web Development
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css" height="70"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode,vercel">
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=firebase,nodejs,postgres,prisma" height="70"/>
+
+<br><br>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio" height="70"/>
 
 </div>
 
 ---
 
+# Currently
+
+    vivek@dev:~$ cat current-focus.txt
+
+    Building products
+    Exploring Linux & GNOME
+    Working on client projects
+    Improving as a software engineer
+    Learning → Building → Shipping
+
+    vivek@dev:~$ _
+
+---
+
 <div align="center">
 
-### 🚀 Build · Ship · Learn · Repeat
+### `vivek@dev:~$ git status`
+
+**Building. Learning. Shipping.**
 
 <br>
 
-<a href="mailto:vivekvsingh19@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Connect-111111?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=vivekvsingh19&style=flat-square)
 
 </div>
